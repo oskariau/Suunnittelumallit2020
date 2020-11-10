@@ -1,0 +1,2 @@
+# Suunnittelumallit2020
+Suunnittelumallit-kurssin tehtäviä
